@@ -6,19 +6,7 @@
 }
 
 body {
-    min-width: 500px;
+    min-width:500px;
     background-color: #cedd77;
 }
-/*.profileBody {
-  display: inline-block;
-  background-color: rgb(196, 218, 144);
-  border: 1px solid powderblue;
-  margin-top: 6px;
-  margin-left: 55px;
-  width: 75%;
-  height: 590px;
-  padding-top: 50px;
-  padding-right: 30px;
-  padding-bottom: 50px;
-  padding-left: 80px;
-}*/
+
